@@ -6,26 +6,25 @@ Repositori ini merupakan dokumentasi terpusat untuk seluruh pengerjaan tugas, ek
 
 ---
 
-## 👨‍🏫 Informasi Akademik & Identitas
+## 👨‍🏫 Informasi Identitas
 
 | Kategori | Keterangan |
 | :--- | :--- |
 | **Mata Kuliah** | Sistem Teknologi Multimedia (STM) |
 | **Kode Mata Kuliah** | IF25-40305 |
 | **Dosen Pengampu** | **Martin Clinton Toshima Manullang, S.T., M.T., Ph.D.** |
-| **Nama Mahasiswa** | Muhammad Romadhon Santoso |
+| **Nama Mahasiswa** | Muhammad Romadhon S |
 | **NIM** | 123140031 |
 | **Institusi** | Institut Teknologi Sumatera (ITERA) |
 
 ---
 
-## 📚 Daftar Tugas & Proyek Praktikum
+## 📚 Daftar Tugas yang Ada di Repository
 
 Berikut adalah daftar direktori tugas yang terdapat di dalam repositori ini (klik pada tautan folder untuk melihat kode *notebook* dan laporan analisis masing-masing tugas):
 
 | No | Nama Tugas / Modul | Direktori | Topik & Fokus Pembahasan | Status |
 | :-: | :--- | :--- | :--- | :-: |
-| 1 | **Tugas 1** | `./01_...` *(Sesuaikan nama folder)* | *Pengantar / Materi Tugas 1* | ✅ Selesai |
 | 2 | **Tugas 2 — Analisis Sinyal Suara & Noise Statis** | [`./02_audio_noise_statis`](./02_audio_noise_statis) | Akuisisi audio, Visualisasi 4 Dimensi (Waveform, FFT dBFS, STFT, Mel-Spektrogram), serta Eksperimen Resampling & Pembuktian Aliasing. | ✅ Selesai |
 
 ---
@@ -83,4 +82,4 @@ Seluruh tugas pemrosesan sinyal dan multimedia pada repositori ini dijalankan me
    Pilih folder tugas yang ingin dibuka (misalnya `02_audio_noise_statis/tugas_audio_noise_statis.ipynb`), lalu jalankan seluruh sel kode (*Run All*).
 
 ---
-*Disusun oleh **Muhammad Romadhon Santoso (123140031)** — Teknik Informatika ITERA.*
+*Disusun oleh **Muhammad Romadhon S (123140031)** — Teknik Informatika ITERA.*
